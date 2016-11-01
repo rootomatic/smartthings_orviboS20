@@ -3,7 +3,7 @@
 
 Grab the Device Handler [here](https://github.com/rootomatic/SmartThingsPublic/blob/master/devicetypes/rootomatic/orvibo-s20-switch.src/orvibo-s20-switch.groovy)  
 
-In the smartthings app, add a new device with your Raspberry Pi IP, along with the IP & Mac Address of the Orvibo S20 socket. You should be able to get this information from your router/switch, or running arp -a {IP address} from your pi.
+In the smartthings graph (eu: https://graph-eu01-euwest1.api.smartthings.com/device/list), add a new device with your Raspberry Pi IP, along with the IP & Mac Address of the Orvibo S20 socket. You should be able to get this information from your router/switch, or running arp -a {IP address} from your pi.
 
 >Note: You will need to have set the S20 up already using the ios/android app.
 
