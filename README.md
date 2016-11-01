@@ -17,4 +17,4 @@ Clone the repo:
 Run the server orvibo_server.py 
 `sudo python orvibo_server.py`
 
->Note: You should be aware that running the server as root is a security risk, and make the necessary access changes to this code to secure it, necessary to your requirements.
+>Note: You should be aware that running the server as root is a security risk, and make the necessary access changes to this code to secure it, according to your requirements.
