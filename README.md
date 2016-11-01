@@ -11,7 +11,7 @@ Set up python / flask on the Raspberry Pi:
 `sudo apt-get install python-pip`    
 `sudo pip install flask`    
 
-Clone the repo:  
+Clone the repo or copy the file - update line 7 in orvibo_server.py to point to your path:  
 `git clone https://github.com/rootomatic/smartthings_orviboS20.git`    
 
 Run the server orvibo_server.py   
